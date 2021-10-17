@@ -8,8 +8,13 @@ Using data from three different types of cities, we performed an analysis on rid
 Below are the differences in the ride share data for the three city types.  The ride share data includes: 1. the total rides, 2. total drivers, 3. total fares, 4. average fare per ride, and 5.  Average fare per driver by city type.  We had one outlier in the urban ride count. 
        City Type	Total Rides	Total Drivers	Total Fares	Avg Fare per Ride	Avg Fare per Driver
        Rural	        125	       78	          $4,327.93	     $34.62 	           $55.49 
+<<<<<<< HEAD
        Suburban	        625	      490	          $19,356.33	 $30.97 	           $39.50 
        Urban	       1625	     2404	          $39,854.38	 $24.53 	           $16.57 
+=======
+       Suburban	 625	      490	          $19,356.33	     $30.97 	           $39.50 
+       Urban	       1625	     2404	          $39,854.38	     $24.53 	           $16.57 
+>>>>>>> e067fc3cec10462cc84ba27b1fe549248964dc40
 
 3.	Summary:
 The rural city type reflects the highest average fare per ride and highest average fare per driver with the lowest number of rides and drivers.  The suburban city type reflects an average of $6 more per ride, and about $23 more per driver than the urban city type.  The urban city type shows the highest number of rides and drivers.  The urban city also had the lowest average fare per ride and average fare per driver.  Due to the number of rides and drivers available in the urban city type, the total fares collected is much higher than rural and suburban cities.  Other recommendations to look at in the city types:
@@ -19,9 +24,13 @@ c.  Analysis the wait time from a time a call is made for a pickup to the time t
 
 The chart below reflects fares by city type:
  
+<<<<<<< HEAD
 
 
 
 
 
+=======
+  *on the word.doc
+>>>>>>> e067fc3cec10462cc84ba27b1fe549248964dc40
 
